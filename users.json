@@ -1,20 +1,20 @@
 {
   "owner": {
-    "password": "SALT$HASH_PLACEHOLDER",
+    "password": "SALT123$8c6976e5b5410415bde908bd4dee15dfb16c7a60f40a",
     "role": "owner",
     "premium_until": null,
     "limits": {"max_pages": 1000, "max_threads": 20}
   },
   "alice": {
-    "password": "SALT$HASH_PLACEHOLDER",
+    "password": "SALT123$4b227777d4dd1fc61c6f884f48641d02b4d121d2",
     "role": "user",
     "premium_until": null,
     "limits": {"max_pages": 10, "max_threads": 2}
   },
   "bob": {
-    "password": "SALT$HASH_PLACEHOLDER",
+    "password": "SALT123$03c7c0ace395d80182db07ae2c30f034",
     "role": "premium",
     "premium_until": "2099-12-31",
     "limits": {"max_pages": 200, "max_threads": 10}
   }
-  }
+}
